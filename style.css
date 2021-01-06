@@ -88,7 +88,8 @@
 .singel-exp{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
-    height: 80%;
+    height: 270px;
+    margin-bottom: 23px;
 }
 .Experiences{
     background-image: url(image/exp-bg.png );
